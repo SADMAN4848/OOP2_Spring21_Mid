@@ -8,10 +8,10 @@ namespace University
 {
     public class Student
             {
-            string name;
-            string id;
-            string department;
-            float cgpa;
+            private string name;
+            private string id;
+            private string department;
+            private float cgpa;
 
             public Student(){
             }
@@ -26,6 +26,7 @@ namespace University
                 Console.WriteLine("Student's id: " +id);
                 Console.WriteLine("Student's department: " + department);
                 Console.WriteLine("Student's CGPA: "+ cgpa);
+                Console.WriteLine();
             }
     }
 }

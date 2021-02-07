@@ -8,9 +8,9 @@ namespace Together
 {
     public class Course
     {
-        string courseName;
-        string courseCode;
-        int courseCredit;
+        private string courseName;
+        private string courseCode;
+        private int courseCredit;
 
         public Course()
         {

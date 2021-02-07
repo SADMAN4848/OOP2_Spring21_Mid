@@ -8,9 +8,9 @@ namespace Together
 {
     public class Account {
 
-        string accName;
-        string acid;
-        int balance;
+        private string accName;
+        private string acid;
+        private int balance;
 
         public Account()
         {

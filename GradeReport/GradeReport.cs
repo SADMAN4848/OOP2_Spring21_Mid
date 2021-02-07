@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GradeReport
 {
-    class Program
+    class GradeReport
     {
         static void Main(string[] args)
         {

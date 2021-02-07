@@ -8,9 +8,9 @@ namespace TestTriangle
 {
 	public class Triangle
 	{
-		int x;
-		int y;
-		int z;
+		private int x;
+		private int y;
+		private int z;
 
 		public Triangle()
 		{
@@ -48,7 +48,7 @@ namespace TestTriangle
 
 		public void ShowInfo()
 		{
-			Console.WriteLine("Length of first arm is " + x);
+			Console.WriteLine("\nLength of first arm is " + x);
 			Console.WriteLine("Length of second arm is " + y);
 			Console.WriteLine("Length of third arm is " + z);
 
