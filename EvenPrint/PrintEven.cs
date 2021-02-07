@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EvenPrint
 {
-    class Program
+    class PrintEven
     {
         static void Main(string[] args)
         {
