@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenPrint\obj\Debug\EvenPrint.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenPrint\obj\Debug\EvenPrint.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenPrint\bin\Debug\EvenPrint.exe.config
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenPrint\bin\Debug\EvenPrint.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenPrint\bin\Debug\EvenPrint.pdb
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenPrint\obj\Debug\EvenPrint.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenPrint\obj\Debug\EvenPrint.pdb
