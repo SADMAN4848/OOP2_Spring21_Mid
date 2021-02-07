@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\GradeReport\bin\Debug\GradeReport.exe.config
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\GradeReport\bin\Debug\GradeReport.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\GradeReport\bin\Debug\GradeReport.pdb
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\GradeReport\obj\Debug\GradeReport.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\GradeReport\obj\Debug\GradeReport.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\GradeReport\obj\Debug\GradeReport.pdb

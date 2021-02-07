@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenOddSum\obj\Debug\EvenOddSum.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenOddSum\obj\Debug\EvenOddSum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenOddSum\bin\Debug\EvenOddSum.exe.config
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenOddSum\bin\Debug\EvenOddSum.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenOddSum\bin\Debug\EvenOddSum.pdb
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenOddSum\obj\Debug\EvenOddSum.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\HelloWorld\EvenOddSum\obj\Debug\EvenOddSum.pdb
