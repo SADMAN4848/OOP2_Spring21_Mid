@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{3E583090-4CEB-4E60-BDE6-E65AFB028503}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account and Course", "Account\Account and Course.csproj", "{7904FA5E-8989-46CE-99A3-CB08FE4EEFED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3E583090-4CEB-4E60-BDE6-E65AFB028503}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E583090-4CEB-4E60-BDE6-E65AFB028503}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E583090-4CEB-4E60-BDE6-E65AFB028503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7904FA5E-8989-46CE-99A3-CB08FE4EEFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7904FA5E-8989-46CE-99A3-CB08FE4EEFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7904FA5E-8989-46CE-99A3-CB08FE4EEFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7904FA5E-8989-46CE-99A3-CB08FE4EEFED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

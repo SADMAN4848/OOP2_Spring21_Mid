@@ -4,22 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankAccount
+namespace Together
 {
-    public class Account{ 
-    
+    public class Account {
+
         string accName;
         string acid;
         int balance;
-    
-    public Account()
-    {
-    }
-    public Account(string accName,string acid,int balance)
+
+        public Account()
+        {
+        }
+        public Account(string accName, string acid, int balance)
         {
             this.accName = accName;
             this.acid = acid;
-            this.balance= balance;
+            this.balance = balance;
         }
         public string AccName
         {
@@ -37,12 +37,12 @@ namespace BankAccount
             set { balance = value; }
         }
 
-        public void deposit(double amount)
+        public void deposit(int amount)
         {
             balance += amount;
             Console.WriteLine("You have deposited BDT " + amount);
         }
-        public void withdraw(double amount)
+        public void withdraw(int amount)
         {
             if (balance >= amount + 500)
             {
@@ -55,5 +55,14 @@ namespace BankAccount
             }
         }
 
+        public void ShowAccInfo()
+        {
+            Console.WriteLine("Acc Name: " + accName);
+            Console.WriteLine("Acc No: " + acid);
+            Console.WriteLine("Acc Balance: " + balance);
+            
+        }
+    }
+}
 
 

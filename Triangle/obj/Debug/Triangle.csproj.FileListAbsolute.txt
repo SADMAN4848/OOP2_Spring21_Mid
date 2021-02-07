@@ -4,3 +4,4 @@ C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Triangle\bin\Debug\Triangle.exe
 C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Triangle\bin\Debug\Triangle.pdb
 C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Triangle\obj\Debug\Triangle.exe
 C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
