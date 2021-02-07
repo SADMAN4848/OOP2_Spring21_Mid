@@ -22,7 +22,23 @@ namespace Together
             this.courseCredit = courseCredit;
         }
 
+        public string CourseName
+        {
+            get { return courseName; }
+            set { courseName = value; }
+        }
 
+        public string CourseCode
+        {
+            get { return courseCode; }
+            set { courseCode = value; }
+        }
+
+        public string CourseCredit
+        {
+            get { return courseCredit; }
+            set { courseCredit = value; }
+        }
         public void ShowInfo()
         {
             Console.WriteLine();
