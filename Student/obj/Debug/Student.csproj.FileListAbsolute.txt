@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Student\bin\Debug\Student.exe.config
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Student\bin\Debug\Student.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Student\bin\Debug\Student.pdb
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Student\obj\Debug\Student.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Student\obj\Debug\Student.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\Student\obj\Debug\Student.pdb
