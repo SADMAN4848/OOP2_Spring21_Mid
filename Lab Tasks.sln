@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account and Course", "Account\Account and Course.csproj", "{7904FA5E-8989-46CE-99A3-CB08FE4EEFED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDuplicate", "ArrayDuplicate\ArrayDuplicate.csproj", "{40317299-41C2-41C9-BB0E-79D654C51F5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7904FA5E-8989-46CE-99A3-CB08FE4EEFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7904FA5E-8989-46CE-99A3-CB08FE4EEFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7904FA5E-8989-46CE-99A3-CB08FE4EEFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40317299-41C2-41C9-BB0E-79D654C51F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40317299-41C2-41C9-BB0E-79D654C51F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40317299-41C2-41C9-BB0E-79D654C51F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40317299-41C2-41C9-BB0E-79D654C51F5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

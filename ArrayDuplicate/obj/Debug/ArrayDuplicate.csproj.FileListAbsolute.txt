@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\ArrayDuplicate\bin\Debug\ArrayDuplicate.exe.config
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\ArrayDuplicate\bin\Debug\ArrayDuplicate.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\ArrayDuplicate\bin\Debug\ArrayDuplicate.pdb
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\ArrayDuplicate\obj\Debug\ArrayDuplicate.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\ArrayDuplicate\obj\Debug\ArrayDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\ArrayDuplicate\obj\Debug\ArrayDuplicate.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\ArrayDuplicate\obj\Debug\ArrayDuplicate.pdb
