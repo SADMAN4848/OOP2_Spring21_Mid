@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\CopyArray\bin\Debug\CopyArray.exe.config
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\CopyArray\bin\Debug\CopyArray.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\CopyArray\bin\Debug\CopyArray.pdb
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\CopyArray\obj\Debug\CopyArray.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\CopyArray\obj\Debug\CopyArray.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\CopyArray\obj\Debug\CopyArray.pdb

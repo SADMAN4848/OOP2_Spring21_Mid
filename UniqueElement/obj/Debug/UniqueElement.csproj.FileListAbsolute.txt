@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\UniqueElement\obj\Debug\UniqueElement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\UniqueElement\bin\Debug\UniqueElement.exe.config
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\UniqueElement\bin\Debug\UniqueElement.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\UniqueElement\bin\Debug\UniqueElement.pdb
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\UniqueElement\obj\Debug\UniqueElement.exe
+C:\Users\Asus\Desktop\C Sharp\OOP2 Github\UniqueElement\obj\Debug\UniqueElement.pdb
