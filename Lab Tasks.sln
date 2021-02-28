@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueElement", "UniqueElem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyArray", "CopyArray\CopyArray.csproj", "{B2955A83-880E-4D1B-A22E-F009489E0D6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Task 28-02-21", "Lab Task 28-02-21\Lab Task 28-02-21.csproj", "{E39A46E8-58C6-46E2-B82F-1F5F39D7369B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B2955A83-880E-4D1B-A22E-F009489E0D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2955A83-880E-4D1B-A22E-F009489E0D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2955A83-880E-4D1B-A22E-F009489E0D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39A46E8-58C6-46E2-B82F-1F5F39D7369B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39A46E8-58C6-46E2-B82F-1F5F39D7369B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39A46E8-58C6-46E2-B82F-1F5F39D7369B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39A46E8-58C6-46E2-B82F-1F5F39D7369B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
