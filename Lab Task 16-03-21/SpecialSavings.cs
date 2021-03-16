@@ -14,7 +14,7 @@ namespace Lab_Task_16_03_21
         }
         public override void Withdraw(double amount)
         {
-            if (Balance - amount >= Balance % 20)
+            if (Balance - amount >= (Balance * 20) / 100) 
             {
                 Balance -= amount;
                 Console.WriteLine("Your Special Savings account is debited by {0} to self", amount);
@@ -26,7 +26,7 @@ namespace Lab_Task_16_03_21
         }
         public override void Transfer(Account a, double amount)
         {
-            if (Balance - amount >= 500)
+            if (Balance - amount >= (Balance * 20) / 100)
             {
                 Balance -= amount;
                 a.Balance += amount;

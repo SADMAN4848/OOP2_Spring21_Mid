@@ -31,7 +31,7 @@ namespace Lab_Task_16_03_21
         abstract public void Withdraw(double amount);
 
         
-        virtual public void Transfer(Account a, double amount)
+        abstract public void Transfer(Account a, double amount)
         {
 
         }

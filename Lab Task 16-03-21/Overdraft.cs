@@ -26,7 +26,7 @@ namespace Lab_Task_16_03_21
         }
         public override void Transfer(Account a, double amount)
         {
-            if (Balance >= amount)
+            if (Balance >= amount || amount <= Balance + 5000)
             {
                 Balance -= amount;
                 a.Balance += amount;
@@ -34,7 +34,7 @@ namespace Lab_Task_16_03_21
             }
             else
             {
-                Console.WriteLine("insufficient balance");
+                Console.WriteLine("Insufficient balance");
             }
         }
     }
