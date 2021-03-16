@@ -34,7 +34,7 @@ namespace Lab_Task_16_03_21
             }
             else
             {
-                Console.WriteLine("insufficient balance");
+                Console.WriteLine("Insufficient balance");
             }
         }
 

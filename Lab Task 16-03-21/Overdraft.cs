@@ -14,7 +14,7 @@ namespace Lab_Task_16_03_21
         }
         public override void Withdraw(double amount)
         {
-            if (Balance >=amount || amount>=Balance+5000)
+            if (Balance >=amount || amount<=Balance+5000)
             {
                 Balance -= amount;
                 Console.WriteLine("Your Overdraft account is debited by {0} to self", amount);
