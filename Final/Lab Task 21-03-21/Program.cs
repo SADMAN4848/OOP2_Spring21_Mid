@@ -10,9 +10,14 @@ namespace Lab_Task_21_03_21
     {
         static void Main(string[] args)
         {
-            Account a1 = new Account("Sadman", "22345", 500);
-            Account a2 = new Account("Sakib", "22346", 250);
+            Account a1 = new Account("Sadman Rahman", "22345", 500);
+            Account a2 = new Account("Sakib Mahmud", "22346", 250);
             Transaction t1 = new Transaction(a1,a2,200, "Credited");
+            
+            a1.Withdraw(200);
+            a1.Transfer(a2,100);
+            a1.Deposit(150);
+            a1.ShowAllInfo();
         }
     }
 }
